@@ -13,5 +13,6 @@ WebScour
     #=> "Hello World"
 
 
-[See Nibbler][http://github.com/mislav/nibbler] for `element` examples.
+[See Nibbler][nibbler] for more `element` examples.
 
+[nibbler]: http://github.com/mislav/nibbler
