@@ -1,3 +1,3 @@
-module WebScour
+class WebScour
   VERSION = "0.1"
 end
