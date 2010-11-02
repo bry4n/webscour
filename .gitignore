@@ -1,3 +1,4 @@
 pkg
 .rvmrc
 Gemlock.lock
+.bundle
